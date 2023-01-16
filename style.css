@@ -1,0 +1,31 @@
+
+body{font-family:arial;}
+#topic{font-size:30.5px;
+color:rgb(100,100,200);}
+#text{font-size:19px;
+color:rgb(130,130,130);}
+body{text-align:center;}
+body{background-color:rgb(22,22,22);}
+#pillarchart_0{width:40px;height:70px;}
+#pillarchart_1{width:40px;height:90px;}
+#pillarchart_2{width:40px;height:10px;}
+#pillarchart_3{width:40px;height:40px;}
+#pillarchart_4{width:40px;height:99px;}
+#pillarchart_5{width:40px;height:99px;}
+#pillarchart_6{width:40px;height:31px;}
+#pillarchart_7{width:40px;height:41px;}
+#box_pillarchart{background-color:black;width:840px;padding:20px;display:inline-block;color:cornflowerblue;}
+.pillarchart_pillar_y{margin-top:20px;margin-right:20px;padding:10px;}
+.pillarchart_pillar{display:inline-block;background-color:cornflowerblue;padding:10px;margin:10px;margin-bottom:-130px;}
+.pillarchart_pillar_x{margin-right:20px;margin-left:20px;display:inline-block;width:40;}
+#pillarchart_chart_in{ padding:10px;}
+.placeholder{ padding:5px;}
+.table_box{display:inline-block; padding:10px;width:240px;}
+#wepy_table{background-color:white;color:gray;display:inline-block;text-align:center;}
+.placeholder{ padding:5px;}
+#sinus_function{width:400px;padding-right:10px;background-color:white;}
+#sinus_function_img img{width:400px;padding:10px;}
+.sinus_function_num_p{ padding:10px;margin-top:80px;margin-bottom:80px;}
+#sinus_function_graph{ display:inline-block;}
+#sinus_function_p_marginTop{margin-top:10px;}
+#sinus_function_p_marginBottom{margin-bottom:10px;}
